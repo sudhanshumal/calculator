@@ -1,5 +1,5 @@
 package sample;
-
+// A sample console application to show the basic functioning of a calculator.
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
